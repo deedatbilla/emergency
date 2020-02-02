@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "786244000225",
+    "firebase_url": "https://blockchain-authentication-api.firebaseio.com",
+    "project_id": "blockchain-authentication-api",
+    "storage_bucket": "blockchain-authentication-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786244000225:android:6871fa3dd4aafd2b139aa0",
+        "android_client_info": {
+          "package_name": "com.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786244000225-rqnn0tgdcbloie7ckuke6auptbaq68p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF2hWOuNYEJtgfd9t8BzWH5z7fjsJySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786244000225-rqnn0tgdcbloie7ckuke6auptbaq68p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786244000225:android:0ba231a416bcfed7139aa0",
+        "android_client_info": {
+          "package_name": "com.inscripts.cometchatpulse.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786244000225-rqnn0tgdcbloie7ckuke6auptbaq68p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF2hWOuNYEJtgfd9t8BzWH5z7fjsJySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786244000225-rqnn0tgdcbloie7ckuke6auptbaq68p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
